@@ -82,3 +82,6 @@ agrupamento = df.groupby(colunas_para_agrupamento).size().reset_index(name='Cont
 agrupamento.sort_values(by='Contagem', ascending=False)
 print(agrupamento.head(10))
 
+
+# Salvando o dataset limpo
+df.to_csv('Base_Varejo_Limpo.csv', index=False, sep=';', encoding='utf-8')
