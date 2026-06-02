@@ -1,5 +1,7 @@
  Documento para README Turma T2 de Análise de Dados
 
+ Nome: Taís Cristina Tagliani Doico
+
 Este relatório mostra as funções e métodos para o trabalho de limpeza desenvolvido, análise estatística e extração de dados que foram fornecidos diretamente do repositório Kaggle carregados através das bibliotecas: "pandas", "numpy", "matplotlib.pyplot" e "seaborn".
 
 
