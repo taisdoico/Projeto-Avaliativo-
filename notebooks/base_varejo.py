@@ -35,7 +35,7 @@ print(pd.DataFrame({'Nulos': nulos_por_coluna, '% Nulos': pct}))
 if "CATEGORIA" in df.columns:
     df['CATEGORIA'] = df['CATEGORIA'].fillna('Sem cATEGORIA')
 
-# Usando condicional para preencher valores nulosvazios 
+# Usando condicional para preencher valores nulos vazios 
 if "CL_SEG" in df.columns:
     df['CL_SEG'] = df['CL_SEG'].fillna('Não Informado')
 
