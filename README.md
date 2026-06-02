@@ -1,4 +1,4 @@
- Documento para README
+ Documento para README Turma T2 de Análise de Dados
 
 Este relatório mostra as funções e métodos para o trabalho de limpeza desenvolvido, análise estatística e extração de dados que foram fornecidos diretamente do repositório Kaggle carregados através das bibliotecas: "pandas", "numpy", "matplotlib.pyplot" e "seaborn".
 
@@ -19,3 +19,6 @@ Este relatório mostra as funções e métodos para o trabalho de limpeza desenv
  O agrupamento revelou quais produtos específicos lideram o volume de saídas em cada categoria. Esse dado mostra quais itens têm maior giro no estoque físico, ajudando na decisão de reposição de mercadorias.
  As funções estatísticas aplicadas na coluna "CL_FHL" mostraram o comportamento dos compradores, identificando a média e a quantidade mais frequente de filhos por cliente.
  Transformamos a coluna de data de texto para o formato de data real do Python. Isso organiza as informações em ordem cronológica e ajuda o sistema a entender os dias e meses certinhos das vendas, deixando tudo pronto caso a gente queira olhar quais meses vendem mais no futuro.
+
+ 
+
